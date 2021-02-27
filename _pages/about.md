@@ -27,5 +27,5 @@ DIČ: 1040066984\
 IČ DPH (VAT): SK1040066984\
 \
 erik.kirschner@gmail.com\
-www.erikkirschner.sk\
+www.erikkirschner.sk \
 +421 908 707 197
