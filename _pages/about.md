@@ -1,29 +1,12 @@
 ---
 layout: page
-title: About
+title: O mne
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+> Rovnováha medzi prácou a súkromným životom je veľmi dôležitá. Garantuje radosť, spokojnosť a priestor na ďalší rast a rozvoj či už osobný, alebo profesionálny.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Navrhujem, staviam a prevádzkujem Cloud a IT infraštruktúru u zákazníkov spolu s návrhom čo najoptimálnejšiej implementácie aplikácií v spolupráci s DevOps inžiniermi a vývojármi.
+Všetky navrhované riešenia prinášajú zákaznikom výnos vo forme novo poskytovanej služby, alebo šetria investície a prevádzkový náklad vysokou optimaliázáciou existúcich aplikácií.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Taktiež pracujem na návrhoch architektúr, ktoré využívajú Public Cloud AWS, Azure a GCP, alebo privátny cloud (VMware, OpenStack, Kubernetes). Návrhy migrácií existujúcich infraštruktúr do cloudu, multi-cloud riešenia, správa bezpečnosti a ochrana prístupov ku cloud systémom spolu s prevádzkou, údržbou a riešením vzniknutých problémov.
