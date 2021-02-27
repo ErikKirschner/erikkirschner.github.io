@@ -43,7 +43,7 @@ permalink: /tri/
 | 2018 | 0:35:56 | 05:57 | 1:04:19 | 03:55 | 0:57:33 | 2:47:39 |
 | 2019 | 0:05:50 300m | 03:49 | 1:01:22 | 03:47 | 0:48:40 | 2:03:26 |
 
-\\
+
 **Krpacovo, Quadrathlon**
 
 | Year | Swim | Bike | Canoe/SUP | Run | Total |
