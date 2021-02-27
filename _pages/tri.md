@@ -36,6 +36,7 @@ permalink: /tri/
 | 2019 | 0:37:19 | 08:18 | 2:53:31 | 04:39 | 2:26:00 | 6:10:00 |
 
 
+
 **Samorin, Challenge Olympic**
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
