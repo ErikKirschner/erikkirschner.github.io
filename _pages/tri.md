@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Triathlon Results
+title: Triathlon výsledky
 permalink: /tri/
 ---
 
