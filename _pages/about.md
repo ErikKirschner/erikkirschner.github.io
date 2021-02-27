@@ -4,7 +4,7 @@ title: O mne
 permalink: /about/
 ---
 
-Navrhujem, staviam a prevádzkujem Cloud/IT infraštruktúru u zákazníkov spolu s návrhom čo najoptimálnejšiej implementácie aplikácií v spolupráci s DevOps inžiniermi a vývojármi.
+Navrhujem, staviam a prevádzkujem Cloud/IT infraštruktúru u zákazníkov spolu s návrhom čo najoptimálnejšiej implementácie aplikácií v spolupráci s DevOps inžiniermi a vývojármi s dôrazom na bezpečnosť.
 Všetky navrhované riešenia prinášajú zákazníkom výnos vo forme poskytovaných služieb, alebo šetrenia investícií a prevádzkového nákladu vysokou optimaliázáciou existúcich aplikácií.
 
 Taktiež pracujem na návrhoch architektúr, ktoré využívajú Public Cloud AWS, Azure a GCP, alebo privátny cloud (VMware, OpenStack, Kubernetes). Návrhy migrácií existujúcich infraštruktúr do cloudu, multi-cloud riešenia, správa bezpečnosti a ochrana prístupov ku cloud systémom spolu s prevádzkou, údržbou a riešením vzniknutých problémov.
