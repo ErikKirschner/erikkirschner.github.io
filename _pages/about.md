@@ -18,14 +18,14 @@ Ak máš projekt, alebo nápad na spoluprácu, kontaktuj ma:
 
 **Erik Kirschner**
 
-Majoránová 90\\
-821 07 Bratislava\\
-Slovensko\\
-\\
-IČO: 47655275\\
-DIČ: 1040066984\\
-IČ DPH (VAT): SK1040066984\\
-\\
-erik.kirschner@gmail.com\\
-www.erikkirschner.sk\\
-+421 908 707 197\\
+Majoránová 90\
+821 07 Bratislava\
+Slovensko\
+\
+IČO: 47655275\
+DIČ: 1040066984\
+IČ DPH (VAT): SK1040066984\
+\
+erik.kirschner@gmail.com\
+www.erikkirschner.sk\
++421 908 707 197\
