@@ -4,14 +4,14 @@ title: Triathlon Results
 permalink: /tri/
 ---
 
-### Podersdorf, Half 
+#### Podersdorf, Half
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2020 | 0:39:44 | 03:11 | 2:35:43 | 03:24 | 2:03:49 | 5:25:52 |
 
 
-### St. Polten, Ironman Half 
+#### St. Polten, Ironman Half 
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -20,7 +20,7 @@ permalink: /tri/
 | 2019 | 0:39:22 | 07:27 | 2:50:02 | 05:38 | 2:11:00 | 5:54:02 |
 
 
-### Zell am See, Ironman Half
+#### Zell am See, Ironman Half
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -36,7 +36,7 @@ permalink: /tri/
 | 2019 | 0:37:19 | 08:18 | 2:53:31 | 04:39 | 2:26:00 | 6:10:00 |
 
 
-### Samorin, Challenge Olympic
+#### Samorin, Challenge Olympic
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -44,7 +44,7 @@ permalink: /tri/
 | 2019 | 0:05:50 300m | 03:49 | 1:01:22 | 03:47 | 0:48:40 | 2:03:26 |
 
 
-### Krpacovo, Quadrathlon
+#### Krpacovo, Quadrathlon
 
 | Year | Swim | Bike | Canoe/SUP | Run | Total |
 | :-: | :-: | :-: | :-: | :-: | :-: |
