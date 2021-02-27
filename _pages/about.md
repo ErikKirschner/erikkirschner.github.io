@@ -9,7 +9,7 @@ Všetky navrhované riešenia prinášajú zákazníkom výnos vo forme poskytov
 
 Taktiež pracujem na návrhoch architektúr, ktoré využívajú Public Cloud AWS, Azure a GCP, alebo privátny cloud (VMware, OpenStack, Kubernetes). Návrhy migrácií existujúcich infraštruktúr do cloudu, multi-cloud riešenia, správa bezpečnosti a ochrana prístupov ku cloud systémom spolu s prevádzkou, údržbou a riešením vzniknutých problémov.
 
-\\
+\
 ### Kontaktuj ma
 
 Ak máš projekt, alebo nápad na spoluprácu, kontaktuj ma:
