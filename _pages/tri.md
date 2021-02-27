@@ -4,6 +4,7 @@ title: Triathlon výsledky
 permalink: /tri/
 ---
 
+\
 **Podersdorf, Half**
 
 | Year | Swim | T1 | Bike | T2 | Run | Total |
