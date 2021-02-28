@@ -15,6 +15,7 @@ Taktiež vyrábam, predávam a držím podporu na [OPNsense](https://opnsense.or
 
 Ak máš projekt, alebo nápad na spoluprácu, kontaktuj ma:
 
+\
 **Erik Kirschner**
 
 Majoránová 90\
